@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="localsend--localsend"></div>
 
+### localsend--localsend
+
+🔗 [source](https://github.com/localsend/localsend) – [<code><small>v1.17.0</small></code>](https://github.com/localsend/localsend/releases/tag/v1.17.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `LocalSend-1.17.0-linux-x86-64.deb` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ablfzlx/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-x86-64.deb) |
 <!-- RELEASES_END -->
