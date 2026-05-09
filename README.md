@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="localsend--localsend"></div>
+<div id="2dust--v2rayn"></div>
 
-### localsend--localsend
+### 2dust--v2rayN
 
-🔗 [source](https://github.com/localsend/localsend) – [<code><small>v1.17.0</small></code>](https://github.com/localsend/localsend/releases/tag/v1.17.0)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `LocalSend-1.17.0-linux-x86-64.deb` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ablfzlx/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-x86-64.deb) |
+| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ablfzlx/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
 <!-- RELEASES_END -->
